@@ -11,7 +11,19 @@ https://github.com/UpekHansaja/Creative-Text-Masking-in-Web-Design/assets/109482
 <br/>
 
 ## HTML 👇
-![Header](./README-res/HTML.png)
+```html
+
+    <svg height="100%" width="100%">
+        <clipPath id="text-mask">
+            <text x="50%" y="50%" fill="red" text-anchor="middle">
+                WEMIXT
+            </text>
+        </clipPath>
+    </svg>
+
+    <video src="res/ink.mp4" autoplay loop muted></video>
+
+```
 
 <br/>
 <hr>
