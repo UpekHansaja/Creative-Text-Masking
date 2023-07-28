@@ -10,7 +10,7 @@ https://github.com/UpekHansaja/Creative-Text-Masking-in-Web-Design/assets/109482
 <hr>
 <br/>
 
-## HTML  <img src="./res/html.svg" alt="html" title="HTML5"/>  👇
+## HTML 👇
 
 ```html
 <svg height="100%" width="100%">
@@ -26,7 +26,7 @@ https://github.com/UpekHansaja/Creative-Text-Masking-in-Web-Design/assets/109482
 <hr>
 <br/>
 
-## CSS <img src="./res/css.svg" alt="css" title="CSS3"/>👇
+## CSS 👇
 
 ```css
 @import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@900&display=swap");
