@@ -3,4 +3,11 @@ Explore the art of creative text masking in web design with this stunning code e
 
 #WebDesign #SVG #CSS #CreativeCoding
 
+
+
+https://github.com/UpekHansaja/Creative-Text-Masking-in-Web-Design/assets/109482062/29ed92aa-9405-4e27-8253-cab21a81c5f3
+
+
+
+
 ![Header](./res/)
