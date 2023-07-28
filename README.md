@@ -31,21 +31,21 @@ https://github.com/UpekHansaja/Creative-Text-Masking-in-Web-Design/assets/109482
 
 ## CSS 👇
 ```css
-@import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@900&display=swap");
+    @import url("https://fonts.googleapis.com/css2?family=Titillium+Web:wght@900&display=swap");
 
-video {
-  width: 100%;
-  height: 100vh;
-  clip-path: url(#text-mask);
-}
+    video {
+      width: 100%;
+      height: 100vh;
+      clip-path: url(#text-mask);
+    }
 
-svg {
-  font-size: 11em;
-  font-family: "Titillium Web", sans-serif;
-  position: absolute;
-  top: 0;
-  left: 0;
-}
+    svg {
+      font-size: 11em;
+      font-family: "Titillium Web", sans-serif;
+      position: absolute;
+      top: 0;
+      left: 0;
+    }
 
 ```
 
