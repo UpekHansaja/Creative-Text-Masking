@@ -10,7 +10,7 @@ https://github.com/UpekHansaja/Creative-Text-Masking-in-Web-Design/assets/109482
 <hr>
 <br/>
 
-## HTML 👇
+## HTML  <img src="./res/html.svg" alt="html" title="HTML5"/>  👇
 
 ```html
 <svg height="100%" width="100%">
